@@ -1,16 +1,16 @@
-How many hours do you spend studying per week?,"For the most part, do you study on or off campus?",Does the University of Minnesota offer enough study spaces?,Which U of M TC campus should add more study spaces? Select all that apply.,"Of the choices listed, which type of study space do you utilize the most? Select all that apply.",Please rank your overall satisfaction with the University of Minnesota study spaces. ,What year are you?,To which gender identity do you most identify?,What is your major?
-10+ Hours,On Campus,"Yes, they offer enough study spaces.",None,"Large tables and chairs, Individual cubby desks and chairs, Silent spaces",4,Junior,Female,Psychology
-6-10 Hours,On Campus,"Yes, they offer enough study spaces.",None,Silent spaces,5,Junior,Female,HRD
-1-5 Hours,On Campus,"No, they need to add more study spaces.",East Bank Campus,"Large tables and chairs, Comfortable cushion chairs, Silent spaces",4,Junior,Female,Family Social Science
-10+ Hours,On Campus,"No, they need to add more study spaces.",East Bank Campus,"Large tables and chairs, Comfortable cushion chairs, Silent spaces",4,Junior,Female,Nursing
-6-10 Hours,On Campus,"Yes, they offer enough study spaces.","East Bank Campus, Saint Paul Campus","Large tables and chairs, Silent spaces",4,Junior,Female,HRD
-6-10 Hours,On Campus,"Yes, they offer enough study spaces.",East Bank Campus,Comfortable cushion chairs,4,Senior,Female,BME
-10+ Hours,On Campus,"Yes, they offer enough study spaces.",West Bank Campus,Individual cubby desks and chairs,3,Sophomore,Female,Physiology 
-6-10 Hours,On Campus,"No, they need to add more study spaces.",East Bank Campus,Large tables and chairs,3,Sophomore,Female,Global Studies
-1-5 Hours,On Campus,"Yes, they offer enough study spaces.",West Bank Campus,"Large tables and chairs, Individual cubby desks and chairs",4,Junior,Male,HRD
-1-5 Hours,Off Campus,Indifferent,None,None,4,Junior,Male,Economics
-6-10 Hours,On Campus,"No, they need to add more study spaces.","East Bank Campus, West Bank Campus","Large tables and chairs, Group study rooms, Silent spaces",3,Senior,Male,Computer Science
-10+ Hours,On Campus,Indifferent,None,"Large tables and chairs, Comfortable cushion chairs, Group study rooms",4,Senior,Male,Chemistry
-1-5 Hours,Off Campus,Indifferent,None,None,4,Senior,Male,Political Science
-6-10 Hours,On Campus,"No, they need to add more study spaces.",West Bank Campus,"Comfortable cushion chairs, Group study rooms",4,Senior,Male,BME
-10+ Hours,Off Campus,"No, they need to add more study spaces.","East Bank Campus, West Bank Campus, Saint Paul Campus","Large tables and chairs, Comfortable cushion chairs, Group study rooms, Group work areas",3,Sophomore,Male,Genetics
+Respondants ,How many hours do you spend studying per week?,"For the most part, do you study on or off campus?",Does the University of Minnesota offer enough study spaces?,Which U of M TC campus should add more study spaces? Select all that apply.,"Of the choices listed, which type of study space do you utilize the most? Select all that apply.",Please rank your overall satisfaction with the University of Minnesota study spaces. ,What year are you?,To which gender identity do you most identify?,What is your major?
+Respondant 1,10+ Hours,On Campus,"Yes, they offer enough study spaces.",None,"Large tables and chairs, Individual cubby desks and chairs, Silent spaces",4,Junior,Female,Psychology
+Respondant 2,6-10 Hours,On Campus,"Yes, they offer enough study spaces.",None,Silent spaces,5,Junior,Female,HRD
+Respondant 3,1-5 Hours,On Campus,"No, they need to add more study spaces.",East Bank Campus,"Large tables and chairs, Comfortable cushion chairs, Silent spaces",4,Junior,Female,Family Social Science
+Respondant 4,10+ Hours,On Campus,"No, they need to add more study spaces.",East Bank Campus,"Large tables and chairs, Comfortable cushion chairs, Silent spaces",4,Junior,Female,Nursing
+Respondant 5,6-10 Hours,On Campus,"Yes, they offer enough study spaces.","East Bank Campus, Saint Paul Campus","Large tables and chairs, Silent spaces",4,Junior,Female,HRD
+Respondant 6,6-10 Hours,On Campus,"Yes, they offer enough study spaces.",East Bank Campus,Comfortable cushion chairs,4,Senior,Female,BME
+Respondant 7,10+ Hours,On Campus,"Yes, they offer enough study spaces.",West Bank Campus,Individual cubby desks and chairs,3,Sophomore,Female,Physiology 
+Respondant 8,6-10 Hours,On Campus,"No, they need to add more study spaces.",East Bank Campus,Large tables and chairs,3,Sophomore,Female,Global Studies
+Respondant 9,1-5 Hours,On Campus,"Yes, they offer enough study spaces.",West Bank Campus,"Large tables and chairs, Individual cubby desks and chairs",4,Junior,Male,HRD
+Respondant 10,1-5 Hours,Off Campus,Indifferent,None,None,4,Junior,Male,Economics
+Respondant 11,6-10 Hours,On Campus,"No, they need to add more study spaces.","East Bank Campus, West Bank Campus","Large tables and chairs, Group study rooms, Silent spaces",3,Senior,Male,Computer Science
+Respondant 12,10+ Hours,On Campus,Indifferent,None,"Large tables and chairs, Comfortable cushion chairs, Group study rooms",4,Senior,Male,Chemistry
+Respondant 13,1-5 Hours,Off Campus,Indifferent,None,None,4,Senior,Male,Political Science
+Respondant 14,6-10 Hours,On Campus,"No, they need to add more study spaces.",West Bank Campus,"Comfortable cushion chairs, Group study rooms",4,Senior,Male,BME
+Respondant 15,10+ Hours,Off Campus,"No, they need to add more study spaces.","East Bank Campus, West Bank Campus, Saint Paul Campus","Large tables and chairs, Comfortable cushion chairs, Group study rooms, Group work areas",3,Sophomore,Male,Genetics
